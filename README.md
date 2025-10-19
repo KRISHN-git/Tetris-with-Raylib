@@ -8,5 +8,5 @@ It’s a great example of applying basic game loop concepts, collision detection
 
 ![Gameplay Screenshot](tetris.png)
 
-* Open [Tetris-Game]() video to see the gameplay.
+* Open [Tetris-Game](https://youtu.be/2DpLy74EXm4) video to see the gameplay.
 ---
